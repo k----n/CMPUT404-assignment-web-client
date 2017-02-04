@@ -33,3 +33,5 @@ https://www.w3.org/Protocols/rfc2616/rfc2616-sec14.html#sec14.23
 https://tools.ietf.org/html/rfc7231#section-3.1.1.5
 
 https://tools.ietf.org/html/rfc7230#section-2.7.1
+
+https://www.tutorialspoint.com/http/http_message_examples.htm
