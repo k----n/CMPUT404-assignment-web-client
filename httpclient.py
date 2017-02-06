@@ -48,7 +48,7 @@ class HTTPClient(object):
         return int(data[0].split()[1])
 
     def get_headers(self,data):
-        return ''.join(data[1:-1])
+        return '\r\n'.join(data[1:-1])
 
     def get_body(self, data):
         return data[-1]
